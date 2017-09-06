@@ -4,7 +4,7 @@ The Uninstaller is an application that allows you to completely remove applicati
 Installing an application distributes many files throughout your System using space of your Hard Drive unnecessarily.
 The Uninstaller finds all these small files and safely deletes them.
 
-[Free Download](https://github.com/dean-wong/The-Uninstaller/releases/download/1.17.0522/TheUninstaller.tar.gz)
+[Free Download](https://github.com/dean-wong/The-Uninstaller/releases/download/1.17.0522/TheUninstaller.dmg)
 
 ### System Requirements:
 - Mac OS X 10.8 or later
